@@ -1,4 +1,4 @@
-# Fitting Elephants in the DFT Zoo IJQC 2020
+# Fitting Elephants in the DFT Zoo – IJQC 2020
 Repository of material for fitting density functional theory to one parameter using Piantadosi's encoding procedure
 
 Supplementary Electronic Material for:
